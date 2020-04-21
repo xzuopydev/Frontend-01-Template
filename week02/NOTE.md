@@ -45,6 +45,8 @@
     - IdentifierName
     - Punctuator
     - Template
+    - [NumericLiteral](https://github.com/xzuopydev/Frontend-01-Template/blob/e0166dc161748360de3ba0cab4ead4d0d625f4f3/week02/NumericLiterals.md)
+    - [StringLiteral](https://github.com/xzuopydev/Frontend-01-Template/blob/e0166dc161748360de3ba0cab4ead4d0d625f4f3/week02/StringLiterals.md)
 #### 基本类型
 - Type
   - Number
