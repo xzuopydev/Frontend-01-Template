@@ -55,3 +55,4 @@
   - Boolean
   - Null
   - Undifined
+  - Symbol
