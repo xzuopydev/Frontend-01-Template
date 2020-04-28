@@ -80,7 +80,8 @@ function convertNumberToString(number, type) {
             }
             return str;
         }
-```
+```js
+
 
 ### js中特殊对象
 
